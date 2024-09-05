@@ -32,6 +32,7 @@ Implementation using C or pyhton code
 ## PROGRAM:
 PROGRAM:
 ```
+..c program
 
 #include <stdio.h>
 #include <string.h>
