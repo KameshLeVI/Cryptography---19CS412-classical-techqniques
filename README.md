@@ -3,9 +3,7 @@
 Caeser Cipher using with different key values
 
 # AIM:
-
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
-
 
 ## DESIGN STEPS:
 
@@ -31,7 +29,7 @@ Implementation using C or pyhton code
 
 ## PROGRAM:
 PROGRAM:
-
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -80,19 +78,23 @@ void decrypt(char message[], int shift) {
 int main() {
     char message[100];
     int shift;
-    {
+
     printf("Enter a message: ");
     gets(message);  // reads a line of text
+
     printf("Enter shift amount: ");
     scanf("%d", &shift);
+
     // Make a copy of the message to decrypt later
     char encrypted_message[100];
     strcpy(encrypted_message, message);
+
     encrypt(encrypted_message, shift);
     decrypt(encrypted_message, shift);
+
     return 0;
 }
-
+```
 ## OUTPUT:
 OUTPUT:
 Simulating Caesar Cipher
