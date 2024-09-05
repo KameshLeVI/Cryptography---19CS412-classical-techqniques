@@ -100,8 +100,7 @@ int main() {
 
 ```
 ## OUTPUT:
-OUTPUT:
-Simulating Caesar Cipher
+### OUTPUT: Simulating Caesar Cipher
 ![Screenshot 2024-09-05 083315](https://github.com/user-attachments/assets/ebdb5991-9843-4fa1-a607-a0f3e4756f53)
 
 ## RESULT:
@@ -363,7 +362,6 @@ int main() {
 ```
 
 ## OUTPUT:
-Output:
 ![Screenshot 2024-09-05 084022](https://github.com/user-attachments/assets/c8ad4c55-5dd2-4443-be34-ac4bf4f81a8a)
 
 
@@ -500,8 +498,7 @@ int main() {
 ```
 
 ## OUTPUT:
-OUTPUT:
-Simulating Hill Cipher:
+### Simulating Hill Cipher:
 
 ![Screenshot 2024-09-05 084930](https://github.com/user-attachments/assets/5f12c69f-ec13-4871-b34d-d62e116db552)
 
@@ -619,8 +616,6 @@ void decipher() {
 ```
 
 ## OUTPUT:
-OUTPUT :
-
 ![Screenshot 2024-09-05 085228](https://github.com/user-attachments/assets/d962b01e-8083-4d49-aa75-167c434362a4)
 
 
@@ -717,8 +712,6 @@ int main() {
 ```
 ## OUTPUT:
 ![Screenshot 2024-09-05 085410](https://github.com/user-attachments/assets/aeb02db4-b0e6-45f7-a15d-00a42cbdb432)
-
-
 
 
 ## RESULT:
